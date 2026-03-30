@@ -6,7 +6,6 @@
 **Computer Science (CSAI) undergraduate (2024–2028), passionate about Machine Learning and building scalable software solutions. Proficient in C++, Java, and Python, with hands-on experience in React, Node.js, and database systems like MySQL. I enjoy creating user-friendly applications with efficient backend integration and continuously improving my problem-solving skills through Data Structures & Algorithms. Currently focused on developing impactful real-world projects and exploring full-stack development.**
 
 
-## 🌟 About Me
 
 * 🌱 Currently learning: **Data Structures & Algorithms + AI/ML + OS + CN + DBMS**
 * 💡 Interested in: **AI, Full Stack Development, Problem Solving**
