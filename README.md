@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Akanksha%20Giri&fontSize=40&fontAlignY=35&desc=CSAI%20Student%20|%20Web%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&animation=fadeIn" />
+</p>
 <h1 align="center">Hi 👋, I'm Akanksha Giri</h1>
 
 <h3 align="center">CSAI Student | Web Developer | DSA Enthusiast</h3>
