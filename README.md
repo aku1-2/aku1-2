@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Akanksha%20Giri&fontSize=40&fontAlignY=35&desc=CSAI%20Student%20|%20Web%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&animation=fadeIn" />
 </p>
-## ☁️ About Me
+<h1>☁️ About Me</h1>
 
 **Computer Science (CSAI) undergraduate (2024–2028), passionate about Machine Learning and building scalable software solutions. Proficient in C++, Java, and Python, with hands-on experience in React, Node.js, and database systems like MySQL. I enjoy creating user-friendly applications with efficient backend integration and continuously improving my problem-solving skills through Data Structures & Algorithms. Currently focused on developing impactful real-world projects and exploring full-stack development.**
 
