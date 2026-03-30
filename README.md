@@ -70,4 +70,12 @@ Hi 👋, I'm Akanksha Giri
   <img src="https://leetcard.jacoblin.cool/AkankshaGiri_?theme=dark&font=Karma" />
 </p>
 
+---
+
+## 💻 Codeforces Stats  
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Akankshagiri&theme=dark" />
+</p>
+
 ⭐ *“Code. Learn. Build. Repeat.”*
