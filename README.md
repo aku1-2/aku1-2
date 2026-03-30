@@ -52,5 +52,22 @@ Hi 👋, I'm Akanksha Giri
 </p>
 
 ---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aku1-2&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aku1-2&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AkankshaGiri_?theme=dark&font=Karma" />
+</p>
 
 ⭐ *“Code. Learn. Build. Repeat.”*
