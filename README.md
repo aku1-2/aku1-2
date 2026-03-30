@@ -3,7 +3,7 @@
 <h3 align="center">CSAI Student | Web Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Problem+Solver;Building+Scalable+Projects;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Web+Developer;Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Tech" />
 </p>
 
 
