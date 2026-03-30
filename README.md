@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Akanksha Giri
+<h1 align="center">Hi 👋, I'm Akanksha Giri</h1>
 
-Hi 👋, I'm Akanksha Giri
+<h3 align="center">CSAI Student | Web Developer | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Problem+Solver;Building+Scalable+Projects;Always+Learning+New+Tech" />
+</p>
+
 
 **Computer Science (CSAI) undergraduate (2024–2028), passionate about Machine Learning and building scalable software solutions. Proficient in C++, Java, and Python, with hands-on experience in React, Node.js, and database systems like MySQL. I enjoy creating user-friendly applications with efficient backend integration and continuously improving my problem-solving skills through Data Structures & Algorithms. Currently focused on developing impactful real-world projects and exploring full-stack development.**
 
