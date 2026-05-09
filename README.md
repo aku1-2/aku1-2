@@ -55,7 +55,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aku1-2&show_icons=true&theme=tokyonight" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=aku1-2&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=aku1-2&show_icons=true&theme=tokyonight&cache_seconds=60)" />
 </p>
 
 <p align="center">
