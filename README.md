@@ -51,18 +51,19 @@
   </a>
 </p>
 
----
+## 📊 GitHub Stats
+
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=aku1-2&show_icons=true&theme=tokyonight&cache_seconds=60"
+    src="https://streak-stats.demolab.com?user=aku1-2&theme=tokyonight"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    height="180em"
-    src="https://streak-stats.demolab.com/?user=aku1-2&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aku1-2&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
