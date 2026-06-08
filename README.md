@@ -52,18 +52,23 @@
 
 ## 📊 GitHub Stats
 
+<!-- STREAK-START -->
+> 🔥 **Current Streak:** 8 days &nbsp;|&nbsp; ⚡ **Longest:** 8 days &nbsp;|&nbsp; 📅 **Total Contributions:** — &nbsp;|&nbsp; 🕒 *Updated: 2026-06-08*
+<!-- STREAK-END -->
+
 <p align="center">
   <img
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aku1-2&theme=tokyonight" />    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=aku1-2&theme=tokyonight&hide_current_streak=true"
+    alt="GitHub Streak"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aku1-2&theme=tokyonight"
     alt="GitHub Profile Summary"
   />
 </p>
+
 
 ## 🧠 LeetCode Stats  
 
