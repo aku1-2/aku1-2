@@ -54,7 +54,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=aku1-2&theme=tokyonight&cache_seconds=1800"
+    src="https://streak-stats.demolab.com?user=aku1-2&theme=tokyonight&v=2"
     alt="GitHub Streak"
   />
 </p>
