@@ -16,16 +16,15 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,html,css,js,nodejs,react,mysql,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,html,css,js,nodejs,react,mongodb,mysql,postman,git,github,vscode,arduino" />
 </p>
 
 ### 🤖 Core Knowledge
 - Fundamentals of AI & Machine Learning
 
 ## 📈 Currently Working On
-* AI Study Tracker(Marks Prediction + MentorShip).
-* MyBuko (transforms aspirations into reality.)
-
+* AI Study Tracker (Marks Prediction + Mentorship)
+* MyBuko (Transforms aspirations into reality)
 ---
 
 ## 📫 Connect With Me  
