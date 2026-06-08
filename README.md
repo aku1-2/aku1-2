@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <!-- STREAK-START -->
-> 🔥 **Current Streak:** 8 days &nbsp;|&nbsp; ⚡ **Longest:** 8 days &nbsp;|&nbsp; 📅 **Total Contributions:** 416 &nbsp;|&nbsp; 🕒 *Updated: 2026-06-08*
+> 🔥 **Current Streak:** 8 days &nbsp;|&nbsp; ⚡ **Longest:** 8 days &nbsp;|&nbsp; 📅 **Last 365 days:** 425 &nbsp;|&nbsp; 🗂️ **All time:** 426 &nbsp;|&nbsp; 🕒 *Updated: 2026-06-08*
 <!-- STREAK-END -->
 
 <p align="center">
