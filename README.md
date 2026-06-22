@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <!-- STREAK-START -->
-> 🔥 **Current Streak:** 20 days &nbsp;|&nbsp; ⚡ **Longest:** 20 days &nbsp;|&nbsp; 📅 **Last 365 days:** 632 &nbsp;|&nbsp; 🗂️ **All time:** 633 &nbsp;|&nbsp; 🕒 *Updated: 2026-06-21*
+> 🔥 **Current Streak:** 0 days &nbsp;|&nbsp; ⚡ **Longest:** 20 days &nbsp;|&nbsp; 📅 **Last 365 days:** 632 &nbsp;|&nbsp; 🗂️ **All time:** 633 &nbsp;|&nbsp; 🕒 *Updated: 2026-06-22*
 <!-- STREAK-END -->
 
 <p align="center">
