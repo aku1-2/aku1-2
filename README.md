@@ -56,13 +56,6 @@
 > 🔥 **Current Streak:** 3 days &nbsp;|&nbsp; ⚡ **Longest:** 20 days &nbsp;|&nbsp; 📅 **Last 365 days:** 780 &nbsp;|&nbsp; 🗂️ **All time:** 781 &nbsp;|&nbsp; 🕒 *Updated: 2026-07-22*
 <!-- STREAK-END -->
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aku1-2&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
 ## 🧠 LeetCode Stats  
 
 <p align="center">
