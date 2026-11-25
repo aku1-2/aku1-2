@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <!-- STREAK-START -->
-> 🔥 **Current Streak:** 8 days &nbsp;|&nbsp; ⚡ **Longest:** 23 days &nbsp;|&nbsp; 📅 **Last 365 days:** 876 &nbsp;|&nbsp; 🗂️ **All time:** 984 &nbsp;|&nbsp; 🕒 *Updated: 2026-11-24*
+> 🔥 **Current Streak:** 8 days &nbsp;|&nbsp; ⚡ **Longest:** 23 days &nbsp;|&nbsp; 📅 **Last 365 days:** 874 &nbsp;|&nbsp; 🗂️ **All time:** 984 &nbsp;|&nbsp; 🕒 *Updated: 2026-11-25*
 <!-- STREAK-END -->
 
 ## 🧠 LeetCode Stats  
